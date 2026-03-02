@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "一秒",
+  "base_artist": "SixTONES",
+  "createdAt": "2026-03-02T07:08:53.776319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一秒 with 陳奕迅",
+      "artist": "岑寧兒",
+      "has_synced": true,
+      "path": "select/01_一秒_with_陳奕迅_岑寧兒.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一秒 with 陈奕迅",
+      "artist": "岑宁儿&陈奕迅",
+      "has_synced": true,
+      "path": "select/02_一秒_with_陈奕迅_岑宁儿&陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一秒 (with 陈奕迅)",
+      "artist": "岑宁儿",
+      "has_synced": true,
+      "path": "select/03_一秒_(with_陈奕迅)_岑宁儿.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一秒",
+      "artist": "Ryan.B",
+      "has_synced": false,
+      "path": "select/04_一秒_Ryan.B.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一秒",
+      "artist": "SixTONES",
+      "has_synced": false,
+      "path": "select/pl_01_一秒_SixTONES.txt"
+    }
+  ]
+}
